@@ -27,6 +27,7 @@ media/
 # AI assistant / agent tool data
 .jetro/
 .agents/
+.claude/
 .mcp.json
 CLAUDE.md
 AGENT.md
